@@ -1,0 +1,3 @@
+# CinemaManagementSystem
+运行主函数CinemaManagementSystemDemo
+根据显示的提示输入数字实现功能
